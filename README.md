@@ -10,7 +10,6 @@
    
   
   <h3>Tech Blog : https://velog.io/@wateriversea <h3>
-  </br>
   <h3>Gmail : juyeonha863@gmail.com</h3>
 
 
