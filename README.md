@@ -6,10 +6,8 @@
 <p align ="center">
 
 # 📚Technology Stack📚 
-
-  <br/> 
-  <br/>
-  ## <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=Flutter&logoColor=white"/></a>
-  </p>
+ </p>
+  
+   <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 
